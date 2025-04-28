@@ -1,5 +1,12 @@
 {
-  "name": "api-save-text",
+  "name": "api-con-cors",
   "version": "1.0.0",
-  "type": "module"
+  "description": "API Node.js con CORS para Vercel",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
